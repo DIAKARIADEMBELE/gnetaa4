@@ -1,0 +1,6 @@
+@import "lib/bootstrap/css/bootstrap.css";
+
+.super-admin-btn,
+.sous-admin-btn {
+  margin-left: auto;
+}
